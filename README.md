@@ -1,2 +1,2 @@
-# nbdev_cards_example
+# nbdev_cards
 Testing out nbdev
